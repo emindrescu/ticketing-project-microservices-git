@@ -7,10 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Cydeo-JD-US001/ticketing-project-microservices-config
+          uri: https://github.com/emindrescu/ticketing-project-microservices-config1
           default-label: master
-          username: CundullahT-CT
-          password: '{cipher}11c1a0eb4421592f4d4913fa52971a70896067b7f9b033d56420bac609acee8d4e910f1241c11244dd2cec54156f0ff0efdea2c189fe7fc13f36e058fce30415'
+          username: emindrescu
+          password: '{cipher}6c47b2967616e7818895d59d37a612fbe308d48bba53b5d047a21fac84c7bf39efdf1013a757a028a6b8bf371ca737e7b0e311005c1c5b0427c6bb455ae78815'
       fail-fast: true
 
 encrypt:
